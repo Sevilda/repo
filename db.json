@@ -1,0 +1,16 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Can't give you anything but love",
+      "artist": "Ringmasters",
+      "url": "https://www.mboxdrive.com/anything_but_love.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Can't give you anything but love",
+      "artist": "Ringmasters",
+      "url": "https://www.mboxdrive.com/anything_but_love.mp3"
+    }
+  ]
+}
